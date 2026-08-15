@@ -1,0 +1,12 @@
+#Ignore vscode personal project settings
+.vscode/
+
+#Ignore test dataset (almost 1 GB of data)
+DatasetTest/
+
+#Notes and cppcheck and code reports
+*.txtdocs.zip
+
+# Windows metadata
+*Zone.Identifier
+docs.zip
