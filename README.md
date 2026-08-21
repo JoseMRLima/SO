@@ -1,6 +1,6 @@
 # Sistemas Operativos
 
-Conteúdo da unidade curricular **Sistemas Operativos** do ano letivo 2025/2026.
+Conteúdo da unidade curricular **Sistemas Operativos** do ano letivo 2024/2025.
 
 ## Conteúdo
 
